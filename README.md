@@ -12,7 +12,7 @@ Microsoft Visual Studio
 C#
 
 # Brief Overview of The Project
-Log In Page
+## Log In Page
 
 At first you have to login to be able use the app. If you don't have account yet, you can sign up or use google or facebook account (which this function is not on the code yet).
 
