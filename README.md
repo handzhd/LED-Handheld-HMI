@@ -2,7 +2,7 @@
 # Overview
 A HMI code for Arduino-based device with Visual Studio.
 LED Handheld is an arduino-based device to monitoring and measuring the parameter of Railway Signal LED. This code developed using Microsoft Visual Studio. 
-The purpose of this device is primarily to speed up the production and maintenance of railway signal. After the parameter was measured by LED Handheld, the parameter will be/can be transfer to HMI for futher analysis. The HMI will have 2 function, first one is real time measuring, which display graph about the measured parameter, and second is production test, which test the parameter of the railway signal lamp to the normal value and compare them. Both pages can display different version of the railway signal lamp. Different version of the lamp will have different number of parameter.
+The purpose of this device is primarily to speed up the production and maintenance of railway signal. After the parameter was measured by LED Handheld, the parameter will be/can be transfer to HMI for futher analysis. The HMI has 2 function, first one is real time measuring, which display graph about the measured parameter, and second is production test, which test the parameter of the railway signal lamp to the normal value and compare them. Both pages can display different version of the railway signal lamp. Different version of the lamp will have different number of parameter.
 
 
 # Tools
