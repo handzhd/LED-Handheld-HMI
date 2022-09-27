@@ -23,7 +23,7 @@ You will be entering the information asked and then you can use the app.
 ![image](https://user-images.githubusercontent.com/77774238/153695618-68e066f5-8a72-42a7-8dbe-7906cf55c62a.png)
 
 ## Main Menu/Home page
-After succesfully login, you wil land on main menu page. On this page, you can see on the menu on the left bar that you can choose depends on what you need to do.
+After succesfully login, you will land on main menu page. On this page, you can see on the menu on the left bar that you can choose depends on what you need to do.
 
 ![image](https://user-images.githubusercontent.com/77774238/153695627-b54a9e72-8468-4793-a421-cc715935e963.png)
 
